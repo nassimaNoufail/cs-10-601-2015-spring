@@ -8,7 +8,7 @@
 
 1. ##### 通过贝叶斯公式的思想来学习一个分类器。
 
-   ![img](file:///C:/Users/William/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+   ![img](pics/bayes rules.png)
 
    ​	*大写的英文字母代表随机变量，而粗体代表向量。*
 
