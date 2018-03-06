@@ -9,4 +9,3 @@
 - progress
   - hw 1 - 3 finished.
 - My insight of this course: 
-  - Not yet get. :(
